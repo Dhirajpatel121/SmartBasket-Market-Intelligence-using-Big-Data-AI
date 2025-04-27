@@ -83,3 +83,5 @@ The goal is to leverage transactional grocery data to identify product pairings,
 - The project focuses on **recommendation insights for grocery products** using association rule mining.
 - Ensures scalability by leveraging Snowflake’s cloud architecture.
 - Supports flexible data updates without needing major changes in the Streamlit application.
+
+If you have any questions, reach out to me : @ dhirajpatel1216@gmail.com / https://www.linkedin.com/in/dhiraj-patel121/
