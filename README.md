@@ -1,5 +1,7 @@
 ## **SmartBasket: Market Basket Analysis with Snowflake, Alteryx, and Streamlit**
 
+p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" alt="Snowflake" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alteryx_Logo.png" alt="Alteryx" height="60"/> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60"/> </p>
+
 ### **Project Overview**
 This project demonstrates an end-to-end Market Basket Analysis pipeline using modern data tools including **Snowflake**, **Alteryx**, and **Streamlit**, with a focus on real-time product recommendation and association rule mining.  
 The goal is to leverage transactional grocery data to identify product pairings, improve basket size, and deliver personalized product suggestions through an interactive web application.
@@ -25,7 +27,10 @@ The goal is to leverage transactional grocery data to identify product pairings,
    - Demonstrates the application in action.
    - Explains the business use-case, data flow, and key results.
 
-4. **End-to-End Pipeline (Snowflake → Alteryx → Streamlit)**  
+4. **End-to-End Pipeline (Snowflake → Alteryx → Streamlit)**
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/573015/234114091-65ac1b07-b447-4b69-8818-4e8a02dcfb6b.png" alt="Workflow Diagram" width="600"/> </p>
+
    - **Data Storage:** Grocery transaction data is stored and accessed through **Snowflake**.
    - **Data Preprocessing and Modeling:**  
      Alteryx workflows handle:
